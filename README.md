@@ -1,6 +1,8 @@
 # Documentação do Portal Web - Dynamics CRM
 ## Projeto realizado no Microsoft Dynamics 365
-Toda a documentação do projeto encontra-se em Inglês ou Italiano devido a língua do Cliente.
+> Autor: Amanda Sousa
+> Toda a documentação contida nesse repositório foi preparada ou revisada por mim. 
+> Toda a documentação do projeto encontra-se em Inglês ou Italiano devido a língua do Cliente.
 
 Esse repositório trata-se da documentação da criação de um Portal Web sem banco de dados, onde os dados são consultados diretamente na API do Dynamics 365.
 
