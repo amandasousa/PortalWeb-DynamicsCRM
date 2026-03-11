@@ -1,4 +1,4 @@
-# Documentação do Portal Web - Dynamics CRM
+# Documentação - Portal Web do vendedor e do cliente
 ## Projeto realizado no Microsoft Dynamics 365
 > Autor: Amanda Sousa </br>
 > Toda a documentação contida nesse repositório foi preparada ou revisada por mim. </br>
